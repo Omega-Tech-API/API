@@ -1,4 +1,3 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
-
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+# Ômega Tech
+Organização fundada por estudantes da `Faculdade de Tecnologia - Centro Paula Souza` ( 09/04/24 )
+Repositório para atualizações de Projetos de Aprendizagem Integrada ( API )

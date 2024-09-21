@@ -61,50 +61,27 @@ Adicionar video e documentos nessa seção
 * Git / GitHub
 * VS Code
 * Figma
+* Notion
 
 
 # Backlog do produto
 
-## Sprint 1. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+🟥 - Alta <br>
+🟨 - Média <br>
+🟩 - Baixa <br>
 
-## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
-      
-## Sprint 3 . Implementação
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-      
-## Sprint 4. Operacionalização
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-
+| Prioridade | User Stories | Estimativa | Sprint |
+| ---------- | ------------ | ---------- | ------ |
+| 🟥 | Como colaborador em treinamento, eu quero acessar a página home, para ter uma visão inicial do site | 8 | 1 |
+| 🟥 | Como colaborador em treinamento, eu quero navegar entre as páginas do site, para poder acessar outros conteúdos além da página inicial | 1 | 1 |
+| 🟨 | Como usuário, eu quero ler um conteúdo variado, com imagens e cases práticos, pois isso auxilia no meu aprendizado | 4 | 1 |
+| 🟩 | Como cliente, eu quero as referências utilizadas para a montagem do conteúdo, para que não haja informações falsas dentro do produto | 1 | 1 |
+| 🟥 | Como colaborador em treinamento, eu quero a página onde estão os conteúdos para estudo, para poder estudar os conceitos Scrum | 12 | 1 |
+| 🟩 | Como membro da equipe de desenvolvimento, eu quero o método de avaliação para teste de conhecimento do usuário, para que o usuário que realizar o teste tenha uma avaliação equilibrada e justa | 2 | 2 |
+| 🟨 | Como membro da equipe de desenvolvimento, eu quero as questões que serão utilizadas no teste de conhecimento de cada conteúdo | 4 | 2 |
+| 🟨 | Como usuário eu quero o formulário para realizar o teste de conhecimento, para testar meus conhecimentos | 12 | 2 |
+| 🟩 | Como funcionário em treinamento, eu quero saber as missões e valores dos contratados para desenvolver o produto, para conhecer melhor a equipe de desenvolvimento | 2 | 3 |
+| 🟥 | Como cliente, eu quero que o produto não tenha problemas que necessitem retrabalho para o futuro, para que o produto que será entregue não esteja com erros ou problemas de funcionalidade | 20 | 3 |
 
 
   

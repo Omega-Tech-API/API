@@ -7,8 +7,8 @@ Repositório para atualizações de Projetos de Aprendizagem Integrada ( API )
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e registros (vídeos e apresentações) das sprints](#Funcionalidades)
 * [Backlog do produto](#Backlog-do-produto)
-* [Competências desenvolvidas](#competências-desenvolvidas)
-* [Autores](#autores)
+* [Avaliação de Skills](#Autoavaliação-de-Skills-da-Equipe-Ágil)
+* [Contatos](#Contatos-da-Equipe)
 
 # Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 

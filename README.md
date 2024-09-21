@@ -7,7 +7,7 @@ Repositório para atualizações de Projetos de Aprendizagem Integrada ( API )
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e registros (vídeos e apresentações) das sprints](#Funcionalidades-e-registros-(vídeos-e-apresentações)-das-sprints)
+* [Funcionalidades e registros (vídeos e apresentações) das sprints](#Funcionalidades)
 * [Backlog do produto](#Backlog-do-produto)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
@@ -38,7 +38,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Facilitar o compartilhamento e feedback;
 * Desenvolver habilidades técnicas.
 
-# Funcionalidades e registros (vídeos e apresentações) das sprints
+# Funcionalidades
 
 Apresentação das funcionalidades
 Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:

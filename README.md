@@ -1,5 +1,3 @@
-## NEW
-
 # (API) ÔmegaTech 💻💾
 
 Organização fundada por estudantes da `Faculdade de Tecnologia - São José dos Campos - Prof. Jessen Vidal`
@@ -85,44 +83,202 @@ Adicionar video e documentos nessa seção
 
 
   
-# Competências desenvolvidas
+# Autoavaliação de Skills da Equipe Ágil
 
-## Hard Skill (saber tecnológico)
 <details>
-<summary>Hard Skills desenvolvidas</summary>
+  <summary> Scrum Master - RAUL GERMANO ROSENDO DE OLIVEIRA DUARTE </summary>
   
-| Tecnologia/Metodologia | Classificação |
+| Soft Skill | Classificação |
 | ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
- 
+| Colaboração | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Proatividade| ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Pensamento Crítico | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Gerenciamento de Tempo | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Adaptabilidade | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Resiliência | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| -------------------------------------------- | --------------------------- |
+| Hard Skill | Classificação |
+| Python | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| HTML | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| CSS | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Jira | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Git | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| GitHub | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+
 </details>
 
-## Soft Skill (saber comportamental)
+
 <details>
-<summary>Soft Skills desenvolvidas</summary>
-
-| Habilidades | Classificação |
+  <summary> Product Owner - LINCOLN BORSOI MOREIRA </summary>
+  
+| Soft Skill | Classificação |
 | ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Colaboração | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Proatividade| ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Pensamento Crítico | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Gerenciamento de Tempo | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Adaptabilidade | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Resiliência | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| -------------------------------------------- | --------------------------- |
+| Hard Skill | Classificação |
+| Python | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| HTML | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| CSS | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Jira | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Git | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| GitHub | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 
 </details>
 
-# Autores
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Jean Carlos         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaomarcosoliveiraa) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoM-py)              |
-| Scrum Master  | Pessoa 2 |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MariaGabrielaReis)     |
-| Team Member   | Pessoa 3              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-nepomuceno-04943720a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Nepoun)        |
-|  Team Member  | Pessoa 4                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vitor-c1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
-|  Team Member  | Pessoa 5                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-camargo-915452196/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielCamargoL)   |
-|  Team Member  | Pessoa 6       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
+
+<details>
+  <summary> Dev. Team - RODOLFO RODRIGUES CORBALAN  </summary>
+  
+| Soft Skill | Classificação |
+| ---------------------- | ------------- |
+| Colaboração | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Proatividade| ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Pensamento Crítico | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Gerenciamento de Tempo | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Adaptabilidade | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Resiliência | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| -------------------------------------------- | --------------------------- |
+| Hard Skill | Classificação |
+| Python | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| HTML | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| CSS | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Jira | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Git | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| GitHub | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+
+</details>
+
+<details>
+  <summary> Dev. Team - GABRIEL SARUBI MOTTA FERREIRA  </summary>
+  
+| Soft Skill | Classificação |
+| ---------------------- | ------------- |
+| Colaboração | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Proatividade| ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Pensamento Crítico | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Gerenciamento de Tempo | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Adaptabilidade | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Resiliência | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| -------------------------------------------- | --------------------------- |
+| Hard Skill | Classificação |
+| Python | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| HTML | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| CSS | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Jira | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Git | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| GitHub | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+
+</details>
+
+<details>
+  <summary> Dev. Team - JOÃO PEDRO BARNI LIMA  </summary>
+  
+| Soft Skill | Classificação |
+| ---------------------- | ------------- |
+| Colaboração | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Proatividade| ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Pensamento Crítico | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Gerenciamento de Tempo | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Adaptabilidade | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Resiliência | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| -------------------------------------------- | --------------------------- |
+| Hard Skill | Classificação |
+| Python | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| HTML | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| CSS | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Jira | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Git | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| GitHub | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+
+</details>
+
+
+<details>
+  <summary> Dev. Team - VINÍCIUS ROMAN CORAL   </summary>
+  
+| Soft Skill | Classificação |
+| ---------------------- | ------------- |
+| Colaboração | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Proatividade| ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Pensamento Crítico | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Gerenciamento de Tempo | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Adaptabilidade | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Resiliência | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| -------------------------------------------- | --------------------------- |
+| Hard Skill | Classificação |
+| Python | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| HTML | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| CSS | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Jira | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Git | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| GitHub | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+
+</details>
+
+
+<details>
+  <summary> Dev. Team - GUSTAVO SANTOS MOREIRA    </summary>
+  
+| Soft Skill | Classificação |
+| ---------------------- | ------------- |
+| Colaboração | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Proatividade| ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Pensamento Crítico | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Gerenciamento de Tempo | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Adaptabilidade | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Resiliência | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| -------------------------------------------- | --------------------------- |
+| Hard Skill | Classificação |
+| Python | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| HTML | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| CSS | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Jira | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Git | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| GitHub | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+
+</details>
+
+
+<details>
+  <summary> Dev. Team - TIAGO MANECA BORTOLINI DE CASTRO     </summary>
+  
+| Soft Skill | Classificação |
+| ---------------------- | ------------- |
+| Colaboração | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Proatividade| ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Pensamento Crítico | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Gerenciamento de Tempo | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Adaptabilidade | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Resiliência | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| -------------------------------------------- | --------------------------- |
+| Hard Skill | Classificação |
+| Python | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| HTML | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| CSS | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Jira | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Git | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| GitHub | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+
+</details>
+
+
+# Contatos da Equipe
+
+
+| Função        | Nome           | LinkedIn & GitHub |
+|:-------------:|:---------------|:--------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Product Owner | Lincoln Borsoi Moreira   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaomarcosoliveiraa) <br> [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Dollar2006) |
+| Scrum Master  | Raul Germano Rosendo de Oliveira Duarte     | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) <br> [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MariaGabrielaReis) |
+| Dev. Team  | Rodolfo Rodrigues Corbalan     | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) <br> [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/xRod-Rodriguesx) |
+| Dev. Team  | Gabriel Sarubi Motta Ferreira    | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) <br> [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielSarubi-7) |
+| Dev. Team  | João Pedro Barni Lima   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) <br> [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Barni-i) |
+| Dev. Team  | Gabriel Henrique Rocha Borges   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) <br> [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielRocha-27) |
+| Dev. Team  | Vinícius Roman Coral   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) <br> [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MidD3Vil) |
+| Dev. Team  | Gustavo Santos Moreira   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) <br> [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MoreiraGu) |
+| Dev. Team  | Tiago Maneca Bortolini de Castro   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) <br> [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MoreiraGu) |
+

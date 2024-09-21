@@ -17,43 +17,50 @@ Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focad
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints.
 
-Sprint | Início | Fim | Status|
-|------|--------|-----|------|
-|Kick Off | 02/09/2024 | 06/09/2024 | concluido |
-|01| 09/09/2024 | 29/09/2024 | em progresso |
-|Sprint Review 01| 30/09/2024 | 04/10/2024 | a fazer |
-|02|  07/10/2024| 27/10/2024 | a fazer |
-|Sprint Review 02|  28/10/2024| 01/11/2024 | a fazer |
-|03| 04/11/2024 | 24/11/2024 | a fazer |
-|Sprint Review 03| 25/11/2024 | 29/11/2024 | a fazer |
-|Feira de Soluções|12/12/2024| 12/12/2024 | a fazer |
+<br>
 
+Sprint            |   Início   |    Fim     | Status  |
+|-----------------|------------|------------|---------|
+|Kick Off         | 02/09/2024 | 06/09/2024 | concluido |
+|01               | 09/09/2024 | 29/09/2024 | em progresso |
+|Sprint Review 01 | 30/09/2024 | 04/10/2024 | a fazer |
+|02               | 07/10/2024 | 27/10/2024 | a fazer |
+|Sprint Review 02 | 28/10/2024 | 01/11/2024 | a fazer |
+|03               | 04/11/2024 | 24/11/2024 | a fazer |
+|Sprint Review 03 | 25/11/2024 | 29/11/2024 | a fazer |
+|Feira de Soluções| 12/12/2024 | 12/12/2024 | a fazer |
 
+<br>
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Este projeto tem como objetivo a Criação de um produto em forma de site para nosso Cliente, Professor Antônio Egydio.
+<br><br>
+O site deve conter informações sobre a metodologia ágil SCRUM, os artefatos nela utilizados e todos seus artefatos. Todos os processos deverão ter conceitos e fundamentos com referências, bem como a aplicação com exemplos práticos para a plena compreensão do usuário do sistema.
+<br><br>
+Deve também conter um formulário para avaliações parciais e finais (com finalização).
+O projeto foca na disseminação dos processos para que os usuários possam replicar em seus futuros projetos.
+<br><br>
+Tendo como prioridade secundária, o desenvolvimento de Skills importantes para um profissional de TI. Todo material deve ser disponibilizado para o público interno e externo da FATEC.
+<br><br>
+
+### Habilidades em Construção
+* Documentação de Software (Briefing, Wireframes)
+* Controle de versão (Github) 
+* Processo de Desenvolvimento Ágil (SCRUM)  
+* Lógica de programação (Python) 
+* Comunicação formal falada e escrita (Norma culta)
 
 # Funcionalidades
 
-Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
-
 Adicionar video e documentos nessa seção
-
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
 
 ## Tecnologias Utilizadas
 
 * Jira Software
-* Power BI
 * Microsoft Excel
-* Slack
-
+* Git / GitHub
+* VS Code
+* Figma
 
 
 # Backlog do produto

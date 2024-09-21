@@ -7,7 +7,7 @@ Repositório para atualizações de Projetos de Aprendizagem Integrada ( API )
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e registros (vídeos e apresentações) das sprints](#funcionalidades-e-registros-(vídeos-e-apresentações)-das-sprints)
+* [Funcionalidades e registros (vídeos e apresentações) das sprints](#Funcionalidades-e-registros-(vídeos-e-apresentações)-das-sprints)
 * [Backlog do produto](#Backlog-do-produto)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
@@ -15,18 +15,18 @@ Repositório para atualizações de Projetos de Aprendizagem Integrada ( API )
 # Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
+Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints.
 
-Sprint | Previsão | Status|
-|------|--------|------|
-|Kick Off | dd/mm/aaaa | concluido|
-|01 | dd/mm/aaaa | concluido|
-|02|  dd/mm/aaaa| em progresso |
-|03| dd/mm/aaaa | a fazer|
-|04| dd/mm/aaaa |a fazer |
-|Feira de Soluções|dd/mm/aaaa |a fazer |
-
-
+Sprint | Início | Fim | Status|
+|------|--------|-----|------|
+|Kick Off | 02/09/2024 | 06/09/2024 | concluido |
+|01| 09/09/2024 | 29/09/2024 | em progresso |
+|Sprint Review 01| 30/09/2024 | 04/10/2024 | a fazer |
+|02|  07/10/2024| 27/10/2024 | a fazer |
+|Sprint Review 02|  28/10/2024| 01/11/2024 | a fazer |
+|03| 04/11/2024 | 24/11/2024 | a fazer |
+|Sprint Review 03| 25/11/2024 | 29/11/2024 | a fazer |
+|Feira de Soluções|12/12/2024| 12/12/2024 | a fazer |
 
 
 

@@ -7,7 +7,7 @@
 html{
     background-color: rgb(161, 161, 161);
 }
-body {
+.bodysel {
     display: flex;
     width: 100%;
     max-width: 1800px;
@@ -24,7 +24,7 @@ body {
     background-repeat: no-repeat;
 }
 
-main {
+.mainsel {
     display: flex;
     height: 100vh;
     width: 100%;
@@ -32,7 +32,7 @@ main {
     flex-direction: column;
 }
 
-section{
+.secsel{
     display: flex;
     width:550px;
     padding: 5px;
@@ -65,7 +65,7 @@ section{
     text-decoration: none;
     font-size: 20px;
     margin-left: 40px;
-    padding: 20px 70px 20px 20px;
+    padding: 20px 100px 20px 20px;
     font-size: 15px;
     background-color: #0f3c39;
     margin-top: 5px;

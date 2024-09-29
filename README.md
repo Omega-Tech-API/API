@@ -48,7 +48,7 @@ Tendo como prioridade secundária, o desenvolvimento de Skills importantes para 
 * Lógica de programação (Python) 
 * Comunicação formal falada e escrita (Norma culta)
 
-# Funcionalidades
+# Vídeo Sprint 1
 <h1>WIP</h1>
 
 ## Tecnologias Utilizadas

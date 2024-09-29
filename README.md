@@ -49,8 +49,12 @@ Tendo como prioridade secundária, o desenvolvimento de Skills importantes para 
 * Comunicação formal falada e escrita (Norma culta)
 
 # Vídeo Sprint 1
-Videos Sprint
-https://www.youtube.com/embed/jqCz37kbxzA?list=PLpGliq-v5mTVSV0Edv-cwHBcvzf0glHAi
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=jqCz37kbxzA&list=PLpGliq-v5mTVSV0Edv-cwHBcvzf0glHAi">
+    <img src="https://img.youtube.com/vi/jqCz37kbxzA/0.jpg" alt="Sprint 1 Video">
+  </a>
+</p>
 
 ## Tecnologias Utilizadas
 

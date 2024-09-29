@@ -61,6 +61,26 @@ Adicionar video e documentos nessa seção
 * Figma
 * Notion
 
+## Backlog
+
+**Sprint 1** (21 Set - 29 Set)  
+*Produção das telas Home, Seleção do Conteúdo Scrum e de Conteúdo Scrum*
+
+| ID        | Tarefa                                                 | Status       | Pontos | Responsável |
+|-----------|---------------------------------------------------------|--------------|--------|-------------|
+| **SCRUM-15** | Definir tópicos a serem colocados no site               | DONE         | 1      | GB          |
+| **SCRUM-14** | Compilar pesquisa realizada                            | TO DO        | 4      | JL          |
+| **SCRUM-12** | Montagem da Tela de Seleção do Conteúdo Scrum          | DONE         | 8      | GM          |
+| **SCRUM-9**  | Montagem da Tela Home                                  | DONE         | 6      | VC          |
+| **SCRUM-16** | Pesquisar sobre o Tópico 1 (Visão Geral e Fundamentos) | DONE         | 4      | GB          |
+| **SCRUM-17** | Pesquisar sobre o Tópico 2 (Papeis e Organização no Scrum) | DONE     | 4      | GF          |
+| **SCRUM-18** | Pesquisar sobre o Tópico 3 (Finalização)               | DONE         | 4      | GB          |
+| **SCRUM-20** | Desenvolver a tela do tópico 1                         | DONE         | 8      | GM          |
+| **SCRUM-19** | Pesquisar ou desenvolver mapas-mentais, fluxogramas, gráficos, etc. | TO DO  | 2      | RC          |
+| **SCRUM-21** | Desenvolver a tela do tópico 2                         | DONE         | 6      | TC          |
+| **SCRUM-22** | Desenvolver a tela do tópico 3                         | DONE         | 6      | TC          |
+| **SCRUM-23** | Criar a home do Figma                                  | TO DO        | 0      | VC          |
+
 
 # Backlog do produto
 

@@ -49,7 +49,7 @@ Tendo como prioridade secundária, o desenvolvimento de Skills importantes para 
 * Comunicação formal falada e escrita (Norma culta)
 
 # Funcionalidades
-<h1>''''</h1>
+<h1>WIP</h1>
 
 ## Tecnologias Utilizadas
 

@@ -50,7 +50,7 @@ Tendo como prioridade secundária, o desenvolvimento de Skills importantes para 
 
 # Vídeo Sprint 1
 Videos Sprint
-<iframe width="1864" height="800" src="https://www.youtube.com/embed/jqCz37kbxzA?list=PLpGliq-v5mTVSV0Edv-cwHBcvzf0glHAi" title="Video sprint 1 OmegaTech" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/jqCz37kbxzA?list=PLpGliq-v5mTVSV0Edv-cwHBcvzf0glHAi
 
 ## Tecnologias Utilizadas
 

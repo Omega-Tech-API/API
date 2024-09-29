@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+}
+
+body{
+    background-color: #c2c2c2;
+    margin: 0 auto;
+    max-width: 1800px;
+}
+main{
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.panel{
+    width: 100%;
+    height: 60%;
+    display: flex;
+    background-image: url(Computador.jpg);
+    background-position: 50% 50%;
+    background-size: cover;
+    position: relative;
+}
+.panel::after{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Controla o sombreamento */
+    z-index: 1;
+}
+.panel .overlay{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.panel h2{
+    color: #fff;
+    font-size: 32px;
+    align-self: center;
+    margin: 0 auto;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    z-index: 2;
+    background: rgba(151, 151, 151, 0.2);
+    border-radius: 10px;
+    padding: 20px;
+}
+.resume{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    height: 40%;
+}
+.resume p{
+    margin-top: 30px;
+    font-size: 14px;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    width: 50%;
+}
+.resume button{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    padding: 20px 40px;
+    border-radius: 20px;
+    border: none;
+    background: #DDDDDD;
+}
+.resume a{
+    text-decoration: none;
+    color: black;
+}
+.resume button .seta{
+    width: 40px;
+    height: 40px;
+    background-size: cover;
+    background-position: center;
+    background-image: url(Seta.png)
+}
+
+.seta{
+    margin-left: 5px;
+}

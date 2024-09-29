@@ -7,10 +7,10 @@
 html{
     background-color: rgb(161, 161, 161);
 }
-.bodysel {
+body {
     display: flex;
     width: 100%;
-    max-width: 1800px;
+    max-width: 1350px;
     margin: 0 auto;
     font-family: sans-serif;
 }
@@ -55,9 +55,9 @@ html{
 .modulo.titulo2{
     display: flex;
     flex-direction: column;
-    margin: 40px 0px;
+    margin: 70px 0px;
     font-size: 20px;
-    margin-left: 80px;
+    margin-left: 20px;
 }
 
 .button{
@@ -65,7 +65,7 @@ html{
     text-decoration: none;
     font-size: 20px;
     margin-left: 40px;
-    padding: 20px 100px 20px 20px;
+    padding: 20px 110px 20px 30px;
     font-size: 15px;
     background-color: #0f3c39;
     margin-top: 5px;

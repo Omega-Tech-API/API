@@ -48,7 +48,7 @@ Tendo como prioridade secundária, o desenvolvimento de Skills importantes para 
 * Lógica de programação (Python) 
 * Comunicação formal falada e escrita (Norma culta)
 
-# Vídeo Sprint 1
+# Vídeos Sprints
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=jqCz37kbxzA&list=PLpGliq-v5mTVSV0Edv-cwHBcvzf0glHAi">

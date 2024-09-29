@@ -49,8 +49,7 @@ Tendo como prioridade secundária, o desenvolvimento de Skills importantes para 
 * Comunicação formal falada e escrita (Norma culta)
 
 # Funcionalidades
-
-Adicionar video e documentos nessa seção
+<h1>''''</h1>
 
 ## Tecnologias Utilizadas
 

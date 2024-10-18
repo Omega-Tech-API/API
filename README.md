@@ -19,9 +19,9 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint            |   Início   |    Fim     | Status  |
 |-----------------|------------|------------|---------|
-|Kick Off         | 02/09/2024 | 06/09/2024 | concluído |
-|01               | 09/09/2024 | 29/09/2024 | concluído |
-|Sprint Review 01 | 30/09/2024 | 04/10/2024 | concluído |
+|Kick Off         | 02/09/2024 | 06/09/2024 | concluido |
+|01               | 09/09/2024 | 29/09/2024 | em progresso |
+|Sprint Review 01 | 30/09/2024 | 04/10/2024 | a fazer |
 |02               | 07/10/2024 | 27/10/2024 | a fazer |
 |Sprint Review 02 | 28/10/2024 | 01/11/2024 | a fazer |
 |03               | 04/11/2024 | 24/11/2024 | a fazer |
@@ -48,13 +48,9 @@ Tendo como prioridade secundária, o desenvolvimento de Skills importantes para 
 * Lógica de programação (Python) 
 * Comunicação formal falada e escrita (Norma culta)
 
-# Vídeos Sprints
+# Funcionalidades
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=jqCz37kbxzA&list=PLpGliq-v5mTVSV0Edv-cwHBcvzf0glHAi">
-    <img src="https://img.youtube.com/vi/jqCz37kbxzA/0.jpg" alt="Sprint 1 Video">
-  </a>
-</p>
+Adicionar video e documentos nessa seção
 
 ## Tecnologias Utilizadas
 
@@ -282,7 +278,7 @@ Tendo como prioridade secundária, o desenvolvimento de Skills importantes para 
 | Dev. Team  | Gabriel Sarubi Motta Ferreira    | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-sarubi-3050442b4/) <br> [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielSarubi-7) |
 | Dev. Team  | João Pedro Barni Lima   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-barni-lima-251105272/) <br> [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Barni-i) |
 | Dev. Team  | Gabriel Henrique Rocha Borges   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rocha-wk27) <br> [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielRocha-27) |
-| Dev. Team  | Vinícius Roman Coral   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-coral-a9960b182/) <br> [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MidD3Vil) |
+| Dev. Team  | Vinícius Roman Coral   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com) <br> [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MidD3Vil) |
 | Dev. Team  | Gustavo Santos Moreira   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-moreira-43120027b/) <br> [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MoreiraGu) |
 | Dev. Team  | Tiago Maneca Bortolini de Castro   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com) <br> [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MoreiraGu) |
 

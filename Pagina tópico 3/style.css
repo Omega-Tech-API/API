@@ -90,3 +90,14 @@ section.module.parallax-2{
     background-image: url(pagparallax.png);
     height: 20vh !important;
 }
+.button{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 40px;
+    padding: 20px 110px 20px 30px;
+    font-size: 15px;
+    background-color: #0f3c39;
+    margin-top: 5px;
+    border-radius: 15px;
+}

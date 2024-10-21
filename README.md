@@ -50,7 +50,7 @@ Tendo como prioridade secundária, o desenvolvimento de Skills importantes para 
 
 # Funcionalidades
 
-Adicionar video e documentos nessa seção
+[![Demonstração em Vídeo](https://img.youtube.com/vi/jqCz37kbxzA/maxresdefault.jpg)](https://youtu.be/jqCz37kbxzA)
 
 ## Tecnologias Utilizadas
 

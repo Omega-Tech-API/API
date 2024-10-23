@@ -72,7 +72,7 @@ const questions = [
         ]
     },
     {
-        question: "Which is the largest desert in the world?",
+        question: "Qual a importância da retrospectiva no scrum?",
         answers: [
             { text: "Melhorar continuamente o processo de trabalho da equipe, identificando o que pode ser ajustado para sprints futuras.", correct: true },
             { text: "Redefinir as metas do projeto com o cliente.", correct: false },

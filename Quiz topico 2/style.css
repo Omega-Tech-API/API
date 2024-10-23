@@ -6,7 +6,10 @@
 }
 
 body{
-    background-color: #001e4d;
+    background: url(4dccfcc4-2025-453d-b5dc-6fa15d4de654.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
 }
 .app{
     background-color: #fff;
@@ -73,7 +76,8 @@ body{
 }
 
 .correct{
-    background:#9aeabc ;
+    background:#088356 ;
+    color: white;
 }
 
 .incorrect{

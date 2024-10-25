@@ -75,7 +75,7 @@ const questions = [
         question: "Qual a importância da retrospectiva no scrum?",
         answers: [
             { text: "Melhorar continuamente o processo de trabalho da equipe, identificando o que pode ser ajustado para sprints futuras.", correct: true },
-            { text: "Redefinir as metas do projeto com o cliente.", correct: false },
+            { text: "Revisar o backlog do produto", correct: false },
             { text: "Testar as funcionalidades do produto.", correct: false },
             { text: "Redefinir as metas do projeto com o cliente.", correct: false },
         ]
@@ -92,7 +92,7 @@ const questions = [
 ];
 
 const questionElement = document.getElementById("question");
-const answerButtons = document.getElementById("answer-buttons"); 
+const answerButtons = document.getElementById("answer-buttons");
 const nextButton = document.getElementById("next-btn");
 
 let currentQuestionIndex = 0;
@@ -115,7 +115,7 @@ function showQuestion() {
         const button = document.createElement("button");
         button.innerHTML = answer.text;
         button.classList.add("btn");
-        answerButtons.appendChild(button); 
+        answerButtons.appendChild(button);
         if (answer.correct) {
             button.dataset.correct = answer.correct;
         }

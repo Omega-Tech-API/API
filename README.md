@@ -50,7 +50,8 @@ Tendo como prioridade secundária, o desenvolvimento de Skills importantes para 
 
 # Funcionalidades
 
-[![Demonstração em Vídeo](https://img.youtube.com/vi/jqCz37kbxzA/maxresdefault.jpg)](https://youtu.be/jqCz37kbxzA)
+![Sprint2](https://github.com/user-attachments/assets/0d404052-ee0b-4c0e-80fb-ca9305f3dd99)
+
 
 ## Tecnologias Utilizadas
 

@@ -151,8 +151,11 @@ function selectAnswer(e) {
 function showScore() {
     resetState();
     questionElement.innerHTML = `Você acertou ${score} de ${questions.length} questões!`;
-    nextButton.innerHTML = "Refazer o teste";
+    nextButton.innerHTML = "Voltar para o Início";
     nextButton.style.display = "block";
+    nextButton.onclick = () => {
+        window.location.href = "modulo2.html"
+    }
 }
 
 function handleNextButton() {

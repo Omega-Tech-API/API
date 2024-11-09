@@ -22,9 +22,9 @@ Sprint            |   Início   |    Fim     | Status  |
 |Kick Off         | 02/09/2024 | 06/09/2024 | concluído |
 |01               | 09/09/2024 | 29/09/2024 | concluído |
 |Sprint Review 01 | 30/09/2024 | 04/10/2024 | concluído |
-|02               | 07/10/2024 | 27/10/2024 | em progresso |
-|Sprint Review 02 | 28/10/2024 | 01/11/2024 | a fazer |
-|03               | 04/11/2024 | 24/11/2024 | a fazer |
+|02               | 07/10/2024 | 27/10/2024 | concluído |
+|Sprint Review 02 | 28/10/2024 | 01/11/2024 | concluído |
+|03               | 04/11/2024 | 24/11/2024 | em progresso |
 |Sprint Review 03 | 25/11/2024 | 29/11/2024 | a fazer |
 |Feira de Soluções| 12/12/2024 | 12/12/2024 | a fazer |
 

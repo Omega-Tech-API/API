@@ -1,0 +1,329 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+    font-family: "Roboto Mono", monospace;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background: repeating-linear-gradient(135deg, #336087 25%, #294C6B 50%, #336087 75%);
+    background-size: 200% 200%;
+    animation: backgroundAnimation 20s ease infinite;
+}
+
+nav {
+    background: rgba(41, 76, 107, 1);  /* Fundo translúcido */
+    transition: background-color 0.3s ease;
+    position: relative;
+    z-index: 10;
+}
+
+
+.navbar-expand-lg{
+    padding: 5px;
+}
+.navbar-brand {
+    margin-right: auto;
+}
+
+.navbar-nav {
+    flex: 1; /* Expande a lista de navegação igualmente */
+  }
+
+#navbarSupportedContent ul {
+    position: absolute; 
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+@media (max-width:990px){
+    #navbarSupportedContent ul{
+        position: relative;
+    }
+}
+
+header {
+    color: #fff;
+}
+
+header h4 {
+    margin: 0;
+}
+
+@keyframes backgroundAnimation {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.alinha-centro{
+    justify-content: center;
+}
+
+main h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 10px;
+}
+.linha {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 24px;
+    margin: 0 10px;
+  }
+
+.linha span {
+    display: block;
+    width: 40px;
+    height: 2px;
+    background-color: #336087;
+  }
+section img{
+    box-shadow: 2px 3px 6px black;
+    border-radius: 20px;
+}
+
+.seção-bg {
+    background-color: #DCECFE;
+}
+
+.botao {
+    transition: 1s ease;
+    position: relative;
+    border: 2px solid white;
+    color: white; /* Define a cor do texto */
+}
+/*Essa animação só está aqui porque o bootstrap buga a animação*/
+.botao:hover{
+    color: #fff;
+    border: 2px solid white;
+    box-shadow: 5px 5px 5px #1b4061;
+    transform: translateY(-3px);
+    scale: 1.03;
+}
+
+.botao::before {
+    content: ""; /* Necessário para o pseudo-elemento funcionar */
+    position: absolute;
+    border-radius: 3px;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 0;
+    background: #1b4061;
+    transition: width 1s ease;
+    z-index: -1; /* Coloca o background atrás do texto */
+}
+
+.botao:hover::before {
+    width: 100%;
+    color: white; /* Altere a cor do texto no hover, se desejar */
+}
+
+.card{
+    border-radius: 20px;
+    width: 33.3%;
+    overflow: hidden;
+    position: relative;
+}
+.card-image{
+    width: 100%;
+    height: 100%;
+}
+
+#cards {
+    scroll-margin-top: 80px;
+}
+
+.card-corpo{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    bottom: -100%;
+    left: 0;
+    background: rgba(33, 64, 90, 0.8);
+    color: white;
+    backdrop-filter: blur(5px);
+    padding: 10px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: bottom 1s ease;
+}
+.card:hover .card-corpo{
+    bottom: 0;
+}
+.card-info{
+    font-size: 16px;
+    text-align: justify;
+}
+
+.card .btn {
+    transition: 1s ease;
+    background-color: #336087;
+    position: relative;
+    border: 2px solid white;
+    color: white; /* Define a cor do texto */
+}
+
+.card .btn:hover {
+    background-color: #336087;
+    color: #fff;
+    border: 2px solid white;
+    box-shadow: 5px 5px 5px #1b4061;
+    transform: translateY(-3px);
+    scale: 1.03;
+}
+
+.card .btn:before {
+    content: ""; /* Necessário para o pseudo-elemento funcionar */
+    position: absolute;
+    border-radius: 3px;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 0;
+    background: #1b4061;
+    transition: width 1s ease;
+    z-index: -1; /* Coloca o background atrás do texto */
+}
+
+.card .btn:hover:before {
+    width: 100%;
+    color: white; /* Altere a cor do texto no hover, se desejar */
+}
+#OqScrum{
+    color: white;
+}
+
+footer {
+    background-color: rgba(33, 64, 90, 0.8);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+footer p {
+    margin: 0;
+}
+
+@media (max-width:400px){
+    #cartoes .card{
+        margin: auto;
+    }
+    .card-info{
+        font-size: 12px;
+        text-align: justify;
+    }
+}
+
+@media (max-width:600px){
+    #cartoes{
+        flex-wrap: wrap;
+    }
+    #cartoes .card{
+        width: 75%;
+        height: 450px;
+        margin: auto;
+    }
+    #OqScrum{
+        display: flex;
+        flex-direction: column;
+    }
+    #OqScrum ul{
+        margin-top: 30px;
+    }
+    #PqScrum{
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media (max-width:800px){
+    #cartoes{
+        flex-wrap: wrap;
+    }
+    #cartoes .card{
+        width: 75%;
+        margin: auto;
+    }
+
+    #OqScrum{
+        display: flex;
+        flex-direction: column;
+    }
+    #OqScrum ul{
+        margin-top: 30px;
+    }
+    #PqScrum{
+        display: flex;
+        flex-direction: column;
+    }
+    .botao{
+        width: 100%;
+    }
+}
+
+@media (max-width:1000px){
+    #cartoes{
+        flex-wrap: wrap;
+    }
+    #cartoes .card{
+        width: 75%;
+        margin: auto;
+    }
+    #OqScrum{
+        display: flex;
+        flex-direction: column;
+    }
+    #OqScrum ul{
+        margin-top: 30px;
+    }
+    #PqScrum{
+        display: flex;
+        flex-direction: column;
+    }
+    .botao{
+        width: 100%;
+    }
+}
+
+@media (max-width:1200px){
+    #cartoes{
+        flex-wrap: wrap;
+    }
+    #cartoes .card{
+        width: 75%;
+        margin: auto;
+    }
+    #OqScrum{
+        display: flex;
+        flex-direction: column;
+    }
+    #OqScrum ul{
+        margin-top: 30px;
+    }
+    #PqScrum{
+        display: flex;
+        flex-direction: column;
+    }
+    .botao{
+        width: 100%;
+    }
+}

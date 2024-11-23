@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Academia Ágil Scrum</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg sticky-top" data-bs-theme="dark">
+    <div class="container-fluid d-flex justify-content-between">
+      <a class="navbar-brand" href="#">Academia Ágil Scrum</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mx-auto">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">Home |</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#cards">Módulos |</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Conteúdo
+            </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="#cards">Módulos</a></li>
+              <li><hr class="dropdown-divider"></li>
+              <li><a class="dropdown-item" href="#">Teste</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <header>
+    <div class="container text-start pt-2 pb-3">
+      <h1 class="display-6 w-75 fw-bold">Planeje, Colabore e Entregue com Precisão Ágil</h1>
+      <hr>
+      <p class="lead mt-3">
+        Transforme suas ideias em realidade com práticas ágeis! Na Academia Ágil Scrum, você aprenderá a dominar os métodos de desenvolvimento mais eficientes, colaborativos e orientados a resultados. Junte-se a nós e evolua seu processo de entrega de projetos.
+      </p>
+    </div>
+  </header>
+  <main>
+        <a href="#cards" class="btn botao mt-4 align-self-center py-2">Saiba mais sobre o conteudo</a>
+      </section>
+      <section class="container-fluid d-flex flex-column justify-content-between gap-5 seção-bg pb-5">
+        <h3 id="cards"  class="container-xl py-5 d-flex justity-content-center">
+          <div class="linha">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+            Módulos
+          <div class="linha">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+        </h3>
+        <div class="d-flex container-fluid align-items-center gap-5 alinha-centro " id="cartoes">
+          <div class="card">
+            <img src="/static/img/cowork.png" alt="" class="card-image">
+            <div class="card-corpo">
+              <h1>Módulo 1</h1>
+              <p>Resumo do módulo</p>
+              <p class="my-4 card-info">
+                O Scrum é um framework ágil que foca na colaboração, entrega incremental e adaptação contínua <br>
+                Ele utiliza eventos como Sprints e reuniões diárias, oferecendo maior flexibilidade em comparação aos métodos tradicionais.</p>
+                <a class="btn" href="/modulo">Ler o módulo</a>
+              </div>
+          </div>
+          <div class="card" >
+              <img src="/static/img/Team goals-pana.png" alt="" class="card-image">
+              <div class="card-corpo">
+                  <h1>Módulo 2</h1>
+                  <p>Resumo do módulo</p>
+                  <p class="my-4 card-info">
+                  Os papéis no Scrum — Product Owner, Scrum Master e Equipe de Desenvolvimento — têm responsabilidades distintas, mas colaboram para garantir a entrega de produtos de qualidade e adaptação contínua ao projeto.</p>
+                  <a class="btn" href="/modulo2">Ler o módulo</a>
+              </div>
+          </div>
+          <div class="card">
+            <img src="/static/img/Connected-cuate.png" alt="" class="card-image">
+            <div class="card-corpo">
+              <h1>Módulo 3</h1>
+              <p>Resumo do módulo</p>
+              <p class="my-2 card-info">
+                O Scrum Escalado envolve vários times coordenados para entregar um produto, enquanto o Scrum pode ser adaptado para equipes distribuídas. Métricas como burn down chart e velocity monitoram o progresso, e o Scrum Master gerencia a equipe, superando desafios no processo e no produto.</p>
+                <a class="btn" href="/modulo3">Ler o módulo</a>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; 2024 Academia Ágil Scrum  . Todos os direitos reservados.</p>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

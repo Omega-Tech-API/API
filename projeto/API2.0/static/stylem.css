@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+    font-family: "Roboto Mono", monospace;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background: repeating-linear-gradient(135deg, #336087 25%, #294C6B 50%, #336087 75%);
+    background-size: 200% 200%;
+    animation: backgroundAnimation 20s ease infinite;
+}
+
+@keyframes backgroundAnimation {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+nav {
+    background: rgba(41, 76, 107, 1);  /* Fundo translúcido */
+    transition: background-color 0.3s ease;
+    position: relative;
+    z-index: 10;
+}
+
+.btn {
+    transition: 1s ease;
+    background-color: #336087;
+    position: relative;
+    border: 2px solid white;
+    color: white; /* Define a cor do texto */
+}
+
+.btn:hover {
+    background-color: #336087;
+    color: #fff;
+    border: 2px solid white;
+    box-shadow: 5px 5px 5px #1b4061;
+    transform: translateY(-3px);
+    scale: 1.03;
+}
+
+.btn:before {
+    content: ""; /* Necessário para o pseudo-elemento funcionar */
+    position: absolute;
+    border-radius: 3px;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 0;
+    background: #1b4061;
+    transition: width 1s ease;
+    z-index: -1; /* Coloca o background atrás do texto */
+}
+
+.btn:hover:before {
+    width: 100%;
+    color: white; /* Altere a cor do texto no hover, se desejar */
+}
+
+
+.navbar-expand-lg{
+    padding: 5px;
+}
+.navbar-brand {
+    margin-right: auto;
+}
+
+.navbar-nav {
+    flex: 1; /* Expande a lista de navegação igualmente */
+  }
+
+#navbarSupportedContent ul {
+    position: absolute; 
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+@media (max-width:990px){
+    #navbarSupportedContent ul{
+        position: relative;
+    }
+}
+
+#header-title {
+    text-align: center;
+}
+
+header {
+    color: #fff;
+}
+
+header h4 {
+    margin: 0;
+}
+
+#resumo, #cartoes {
+  background: #DCECFE;
+}
+
+section p {
+    text-align: justify;
+}
+#sprint img{
+    width: 35%;
+    margin: auto;
+    animation: flutuar 3s linear infinite;
+}
+
+.card{
+    border-radius: 20px;
+    width: 33.3%;
+    min-height: 700px;
+    max-height: 700px;
+    height: auto;
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.card-image{
+    width: 100%;
+    height: auto;
+    max-height: 300px;
+    object-fit: contain;
+}
+
+#cards {
+    scroll-margin-top: 80px;
+}
+
+.card-corpo {
+    display: flex;
+    min-height: 300px;
+    max-height: 300px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+}
+
+.card h1 {
+    margin: 10px 0;
+    font-size: 1.5rem;
+    padding: 0 10px;
+}
+
+.card-info{
+    padding: 10px 20px;
+    font-size: 1rem;
+    text-align: justify;
+    margin: 0;
+}
+
+@media (max-width:1200px) {
+    #cartoes{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .card {
+        width: 45%;
+    }
+}
+
+@media (max-width:800px){
+    #cartoes{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    #cartoes .card {
+        width: 80%;
+    }
+    
+}
+
+@media (max-width:600px){
+    #cartoes{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .card {
+        width: 100%;
+    }
+}
+
+@keyframes flutuar{
+    0%{
+        transform: translateY(0);
+    }
+    50%{
+        transform: translateY(-10px);
+    }
+    100%{
+        transform: translateY(0);
+    }
+}
+
+footer {
+    text-align: center;
+}
+
+footer a {
+    text-decoration: none;
+    color: #f8f9fa;
+}

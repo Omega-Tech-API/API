@@ -48,6 +48,12 @@ Tendo como prioridade secundária, o desenvolvimento de Skills importantes para 
 * Lógica de programação (Python) 
 * Comunicação formal falada e escrita (Norma culta)
 
+# Roadmap em Arrowline
+
+![Roadmap do Projeto](Pesquisa/Roadmap/Roadmap%20API.png)
+
+<br>
+
 # Funcionalidades
 
 ![Sprint2](https://github.com/user-attachments/assets/0d404052-ee0b-4c0e-80fb-ca9305f3dd99)

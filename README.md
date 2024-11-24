@@ -68,8 +68,7 @@ Tendo como prioridade secundária, o desenvolvimento de Skills importantes para 
    </ul>
 </p>
 
-
-# Backlog do produto
+# Backlog do Produto
 
 🟥 - Alta <br>
 🟨 - Média <br>
@@ -77,16 +76,87 @@ Tendo como prioridade secundária, o desenvolvimento de Skills importantes para 
 
 | Prioridade | User Stories | Estimativa | Sprint |
 | ---------- | ------------ | ---------- | ------ |
-| 🟥 | Como colaborador em treinamento, eu quero acessar a página home, para ter uma visão inicial do site | 8 | 1 |
-| 🟥 | Como colaborador em treinamento, eu quero navegar entre as páginas do site, para poder acessar outros conteúdos além da página inicial | 1 | 1 |
-| 🟨 | Como usuário, eu quero ler um conteúdo variado, com imagens e cases práticos, pois isso auxilia no meu aprendizado | 4 | 1 |
-| 🟩 | Como cliente, eu quero as referências utilizadas para a montagem do conteúdo, para que não haja informações falsas dentro do produto | 1 | 1 |
-| 🟥 | Como colaborador em treinamento, eu quero a página onde estão os conteúdos para estudo, para poder estudar os conceitos Scrum | 12 | 1 |
-| 🟩 | Como membro da equipe de desenvolvimento, eu quero o método de avaliação para teste de conhecimento do usuário, para que o usuário que realizar o teste tenha uma avaliação equilibrada e justa | 2 | 2 |
-| 🟨 | Como membro da equipe de desenvolvimento, eu quero as questões que serão utilizadas no teste de conhecimento de cada conteúdo | 4 | 2 |
-| 🟨 | Como usuário eu quero o formulário para realizar o teste de conhecimento, para testar meus conhecimentos | 12 | 2 |
-| 🟩 | Como funcionário em treinamento, eu quero saber as missões e valores dos contratados para desenvolver o produto, para conhecer melhor a equipe de desenvolvimento | 2 | 3 |
-| 🟥 | Como cliente, eu quero que o produto não tenha problemas que necessitem retrabalho para o futuro, para que o produto que será entregue não esteja com erros ou problemas de funcionalidade | 20 | 3 |
+| 🟥 | Como cliente, eu quero acessar um site que ensine Scrum e seus fundamentos, para aprender de forma clara e objetiva | 2 | 1 |
+| 🟥 | Como colaborador em treinamento, eu quero acessar as telas Home e de Conteúdos, para visualizar os elementos principais do site | 4 | 1 |
+| 🟨 | Como colaborador em treinamento, eu quero que o layout das telas seja intuitivo, para facilitar minha navegação e aprendizado | 3 | 1 |
+| 🟨 | Como colaborador em treinamento, eu quero que o site tenha cores e fontes agradáveis, para tornar o aprendizado mais atrativo | 2 | 1 |
+| 🟥 | Como colaborador em treinamento, eu quero utilizar as telas Home e de Conteúdos funcionais, para iniciar meus estudos sobre Scrum | 8 | 1 |
+| 🟥 | Como colaborador em treinamento, eu quero que as funcionalidades do site sejam testadas e revisadas, para evitar problemas durante meu uso | 6 | 1 |
+| 🟩 | Como colaborador em treinamento, eu quero acessar instruções de uso das telas criadas, para entender como navegar e utilizar o site | 3 | 1 |
+| 🟩 | Como cliente, eu quero assistir a um vídeo demonstrativo do site, para ter uma visão geral do produto | 4 | 1 |
+
+---
+
+| Prioridade | User Stories | Estimativa | Sprint |
+| ---------- | ------------ | ---------- | ------ |
+| 🟥 | Como colaborador em treinamento, eu quero acessar um sistema de teste de conhecimento, para avaliar o que aprendi sobre Scrum | 2 | 2 |
+| 🟥 | Como colaborador em treinamento, eu quero que o sistema de quiz tenha perguntas relevantes sobre os conteúdos, para testar meu aprendizado de forma eficaz | 4 | 2 |
+| 🟨 | Como colaborador em treinamento, eu quero que o layout do sistema de quiz seja fácil de entender, para que eu possa realizar os testes sem dificuldades | 3 | 2 |
+| 🟨 | Como colaborador em treinamento, eu quero que o sistema de quiz tenha cores e fontes consistentes com o site, para facilitar minha imersão | 2 | 2 |
+| 🟥 | Como colaborador em treinamento, eu quero que o sistema de quiz funcione corretamente, para responder as perguntas e receber um feedback justo | 10 | 2 |
+| 🟥 | Como colaborador em treinamento, eu quero que o sistema de quiz seja revisado e testado, para garantir que minhas respostas sejam avaliadas corretamente | 6 | 2 |
+| 🟩 | Como colaborador em treinamento, eu quero acessar as instruções de uso do sistema de quiz, para saber como realizar os testes | 3 | 2 |
+| 🟩 | Como cliente, eu quero assistir a um vídeo demonstrativo do sistema de quiz, para entender como ele funciona | 4 | 2 |
+
+---
+
+| Prioridade | User Stories | Estimativa | Sprint |
+| ---------- | ------------ | ---------- | ------ |
+| 🟥 | Como cliente, eu quero que o site esteja hospedado na AWS, para que ele seja acessível de qualquer lugar com estabilidade | 2 | 3 |
+| 🟥 | Como cliente, eu quero que o site seja configurado em um ambiente confiável como a AWS, para garantir segurança e desempenho | 10 | 3 |
+| 🟥 | Como colaborador em treinamento, eu quero que o site rode com estabilidade usando Flask, para que eu possa acessar as funcionalidades sem interrupções | 6 | 3 |
+| 🟥 | Como colaborador em treinamento, eu quero que o site tenha melhorias visuais significativas, para que a navegação seja mais agradável | 8 | 3 |
+| 🟥 | Como colaborador em treinamento, eu quero que o site seja revisado e testado após a implementação, para que ele funcione sem erros | 6 | 3 |
+| 🟩 | Como colaborador em treinamento, eu quero acessar instruções claras de uso e manutenção do site, para entender como utilizá-lo ao máximo | 3 | 3 |
+| 🟩 | Como cliente, eu quero assistir a um vídeo demonstrativo do site completo, para ter uma visão clara das funcionalidades | 4 | 3 |
+
+
+## Sprint 1. introdução aos conteudos  
+- [x] Defina o propósito do site (ensinar Scrum e seus fundamentos);  
+- [x] Identifique os elementos principais (telas Home e de Conteúdos);  
+- [x] Esboce o layout das telas;  
+- [x] Escolha cores e fontes;  
+- [x] Desenvolva o design das telas;  
+- [x] Teste e revise as funcionalidades;  
+- [x] Criação do vídeo demonstrativo;  
+- [x] Finalize e aprovação das telas entregues.
+
+**Entregas:**  
+- Tela **Home** funcional;  
+- Tela de **Conteúdos** desenvolvida e testada.
+
+---
+
+## Sprint 2. Desenvolvimento do Projeto  
+- [x] Defina o propósito do sistema de teste de conhecimento;  
+- [x] Identifique os elementos principais do sistema (quiz baseado nos conteúdos);  
+- [x] Esboce o layout do sistema de quiz;  
+- [x] Escolha cores e fontes para o sistema;  
+- [x] Desenvolva o design e funcionalidades do quiz;  
+- [x] Teste e revise o sistema criado;  
+- [x] Documente instruções de uso do sistema de quiz;  
+- [x] Criação do vídeo demonstrativo;  
+- [x] Finalize e aprovação do sistema de quiz.
+
+**Entregas:**  
+- Sistema de **quiz** funcional para teste de conhecimento baseado nos conteúdos da Sprint 1.  
+
+---
+
+## Sprint 3. Implementação  
+- [x] Defina o propósito da implementação na AWS;  
+- [x] Escolha o serviço adequado para hospedagem do site;  
+- [x] Configure uma instância AWS e implemente o projeto;  
+- [x] Escolha a linguagem Flask para rodar o projeto na instância;  
+- [x] Realize um re-design visual significativo nas telas;  
+- [x] Teste e revise o site após a implementação e ajustes visuais;  
+- [x] Documente instruções de uso e manutenção do site;  
+- [x] Criação do vídeo demonstrativo;  
+- [x] Finalize e aprovação do site completo.  
+
+**Entregas:**  
+- Site **hospedado na AWS** utilizando Flask para backend;  
+- **Correções visuais** e re-design das telas existentes.
 
 
   

@@ -1,10 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
 * {
     margin: 0;
     padding: 0;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
 }
-
 
 body{
     background: repeating-linear-gradient(135deg, #336087 25%, #294C6B 50%, #326087 75%);
@@ -12,6 +13,10 @@ body{
     animation: backgroundAnimation 25s ease infinite;
     min-height: 100vh;
     overflow: hidden;
+}
+
+button a {
+    text-decoration: none;
 }
 
 
@@ -30,7 +35,7 @@ body{
     background-color: #ffffffda;
     width: 90%;
     max-width: 900px;
-    margin: 150px auto 0;
+    margin: 40px auto 0;
     border-radius: 10px;
     padding: 30px;
     box-shadow: 5px 5px 2px #111f2c83;
@@ -47,6 +52,9 @@ body{
 }
 
 .quiz{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
     padding: 20px 0;
 }
 
@@ -56,45 +64,76 @@ body{
     font-weight: 600;
 }
 
-.btn{
+#answer-buttons button{
     background: #336087;
+    border: 2px solid white;
     color: #ffffff;
     font-weight: 500;
     width: 100%;
-    border: 1px solid #222;
     padding: 10px;
     margin: 10px 0;
     text-align: left;
     border-radius: 4px;
-    cursor:pointer;
-    transition:all 0.3s ;
+    cursor: pointer;
+    transition: background-color 0.5s ease, color 0.5s ease;
+    position: relative;
 }
+
+#answer-buttons button:hover {
+    background-color: #1b4061;
+    color: white;
+    border: 2px solid white;
+    box-shadow: 2px 2px 5px #1b4061;
+    transform: translateY(-1px);
+    scale: 1.01;
+}
+
+
+#answer-buttons button:disabled{
+    cursor: no-drop;
+}
+
+.btn{
+    transition: 1s ease;
+    background-color: #336087;
+    position: relative;
+    border: 2px solid white;
+    color: white; /* Define a cor do texto */
+}
+
+.btn:hover {
+    background-color: #336087;
+    color: #fff;
+    border: 2px solid white;
+    box-shadow: 5px 5px 5px #1b4061;
+    transform: translateY(-3px);
+    scale: 1.03;
+}
+
+.btn:before {
+    content: ""; /* Necessário para o pseudo-elemento funcionar */
+    position: absolute;
+    border-radius: 3px;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 0;
+    background: #1b4061;
+    transition: width 1s ease;
+    z-index: -1; /* Coloca o background atrás do texto */
+}
+
+.btn:hover:before {
+    width: 100%;
+    color: white; /* Altere a cor do texto no hover, se desejar */
+}
+
 .btn:hover:not([disabled]){
     background: #0d1d33;
     color: #fff;
 }
 
 .btn:disabled{
-    cursor: no-drop;
-}
-.btnA{
-    background: #336087;
-    color: #ffffff;
-    font-weight: 500;
-    width: 100%;
-    border: 1px solid #222;
-    padding: 10px;
-    text-align: left;
-    border-radius: 4px;
-    cursor:pointer;
-    transition:all 0.3s ;
-}
-.btnA:hover:not([disabled]){
-    background: #0d1d33;
-    color: #fff;
-}
-
-.btnA:disabled{
     cursor: no-drop;
 }
 
@@ -111,11 +150,19 @@ body{
     display: none;
 }
 
-.correct{
-    background:#088356 ;
-    color: white;
+.correct {
+    background: #088356 !important; /* Cor correta */
+    color: white !important;
+    opacity: 100% !important;
 }
 
-.incorrect{
-    background:#ff9393;
+.incorrect {
+    background: #ff9393 !important; /* Cor incorreta */
+    color: white !important;
+    opacity: 100% !important;
+}
+
+#answer-buttons button:disabled {
+    cursor: not-allowed;
+    opacity: 0.7;
 }

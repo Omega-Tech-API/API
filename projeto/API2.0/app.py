@@ -30,9 +30,5 @@ def quiz2():
 def quiz3():
     return render_template('quiz3.html')
 
-@app.route('/modulos')
-def modulos():
-    return render_template('modulos.html')
-
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)

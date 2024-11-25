@@ -7,6 +7,7 @@ Repositório para atualizações de Projetos de Aprendizagem Integrada ( API )
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e registros (vídeos e apresentações) das sprints](#Funcionalidades)
 * [Backlog do produto](#Backlog-do-produto)
+* [Como Instalar o Nosso Projeto](#Como-Instalar-o-Nosso-Projeto)
 * [Avaliação de Skills](#Autoavaliação-de-Skills-da-Equipe-Ágil)
 * [Contatos](#Contatos-da-Equipe)
 
@@ -71,6 +72,10 @@ Tendo como prioridade secundária, o desenvolvimento de Skills importantes para 
       <li>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px">
       </li>
+      <li> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="50px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50px"/>
+      </li>
    </ul>
 </p>
 
@@ -82,13 +87,11 @@ Tendo como prioridade secundária, o desenvolvimento de Skills importantes para 
 
 | Prioridade | User Stories | Estimativa | Sprint |
 | ---------- | ------------ | ---------- | ------ |
-| 🟥 | Como cliente, eu quero acessar um site que ensine Scrum e seus fundamentos, para aprender de forma clara e objetiva | 2 | 1 |
-| 🟥 | Como colaborador em treinamento, eu quero acessar as telas Home e de Conteúdos, para visualizar os elementos principais do site | 4 | 1 |
+| 🟥 | Como colaborador em treinamento, eu quero acessar as telas Home e de Conteúdos, para visualizar os conteudos principais do site | 4 | 1 |
 | 🟨 | Como colaborador em treinamento, eu quero que o layout das telas seja intuitivo, para facilitar minha navegação e aprendizado | 3 | 1 |
 | 🟨 | Como colaborador em treinamento, eu quero que o site tenha cores e fontes agradáveis, para tornar o aprendizado mais atrativo | 2 | 1 |
 | 🟥 | Como colaborador em treinamento, eu quero utilizar as telas Home e de Conteúdos funcionais, para iniciar meus estudos sobre Scrum | 8 | 1 |
 | 🟥 | Como colaborador em treinamento, eu quero que as funcionalidades do site sejam testadas e revisadas, para evitar problemas durante meu uso | 6 | 1 |
-| 🟩 | Como colaborador em treinamento, eu quero acessar instruções de uso das telas criadas, para entender como navegar e utilizar o site | 3 | 1 |
 | 🟩 | Como cliente, eu quero assistir a um vídeo demonstrativo do site, para ter uma visão geral do produto | 4 | 1 |
 
 ---
@@ -101,7 +104,6 @@ Tendo como prioridade secundária, o desenvolvimento de Skills importantes para 
 | 🟨 | Como colaborador em treinamento, eu quero que o sistema de quiz tenha cores e fontes consistentes com o site, para facilitar minha imersão | 2 | 2 |
 | 🟥 | Como colaborador em treinamento, eu quero que o sistema de quiz funcione corretamente, para responder as perguntas e receber um feedback justo | 10 | 2 |
 | 🟥 | Como colaborador em treinamento, eu quero que o sistema de quiz seja revisado e testado, para garantir que minhas respostas sejam avaliadas corretamente | 6 | 2 |
-| 🟩 | Como colaborador em treinamento, eu quero acessar as instruções de uso do sistema de quiz, para saber como realizar os testes | 3 | 2 |
 | 🟩 | Como cliente, eu quero assistir a um vídeo demonstrativo do sistema de quiz, para entender como ele funciona | 4 | 2 |
 
 ---
@@ -113,7 +115,6 @@ Tendo como prioridade secundária, o desenvolvimento de Skills importantes para 
 | 🟥 | Como colaborador em treinamento, eu quero que o site rode com estabilidade usando Flask, para que eu possa acessar as funcionalidades sem interrupções | 6 | 3 |
 | 🟥 | Como colaborador em treinamento, eu quero que o site tenha melhorias visuais significativas, para que a navegação seja mais agradável | 8 | 3 |
 | 🟥 | Como colaborador em treinamento, eu quero que o site seja revisado e testado após a implementação, para que ele funcione sem erros | 6 | 3 |
-| 🟩 | Como colaborador em treinamento, eu quero acessar instruções claras de uso e manutenção do site, para entender como utilizá-lo ao máximo | 3 | 3 |
 | 🟩 | Como cliente, eu quero assistir a um vídeo demonstrativo do site completo, para ter uma visão clara das funcionalidades | 4 | 3 |
 
 
@@ -164,6 +165,67 @@ Tendo como prioridade secundária, o desenvolvimento de Skills importantes para 
 - Site **hospedado na AWS** utilizando Flask para backend;  
 - **Correções visuais** e re-design das telas existentes.
 
+<br>
+
+# Como Instalar o Nosso Projeto
+
+## 1. Como Baixar o Projeto em Seu Computador
+1. Clique no botão **Code** no repositório.
+2. Selecione **Download ZIP**.
+
+![Passo 1: Baixando o projeto](/Pesquisa/Imagens/img1.png)
+---
+
+## 2. Extraia o Arquivo em Uma Pasta
+- Utilize aplicativos como **7zip** ou **WinRAR** para extrair o arquivo.
+- Após extrair, entre na pasta do projeto e localize a pasta `API2.0`. Dentro dela:
+  - **Exclua a pasta `venv`**.
+
+![Passo 2: Extraia o Arquivo em Uma Pasta](/Pesquisa/Imagens/img2.png)
+---
+
+## 3. Copie o Caminho da Pasta
+1. Navegue até a pasta onde o projeto foi extraído.
+2. Clique na barra de endereço e copie o caminho completo do diretório.
+
+![Passo 3: Extraia o arquivo em uma pasta](/Pesquisa/Imagens/img3.png)
+---
+
+## 4. Abra o CMD (Terminal do Windows)
+Execute os seguintes comandos:
+
+```bash
+cd <caminho do projeto copiado>
+`````
+---
+
+## 5. Instale as Dependências, Rode o Projeto e Resolva Problemas
+Execute os comandos abaixo na seguinte ordem:
+```bash
+# Passo 1: Crie o ambiente virtual
+python -m venv venv
+
+# Passo 2: Ative o ambiente virtual
+.\venv\Scripts\activate
+
+# Caso o comando acima retorne um erro de permissão:
+# - Abra o PowerShell como administrador
+# - Execute o comando abaixo para permitir a execução de scripts:
+Set-ExecutionPolicy -ExecutionPolicy ALLSigned
+
+# Pressione 'S' e 'Enter' para confirmar.
+
+# Passo 3: Instale as dependências
+pip install -r requirements.txt
+
+# Passo 4: Rode o projeto
+flask run
+
+# Após isso, copie o link gerado no terminal e cole no navegador para acessar o projeto.
+# Não utilize CTRL + C para copiar o link, pois isso interromperá a execução do projeto.
+````
+
+![Passo 5: Instale as Dependências, Rode o Projeto e Resolva Problemas](/Pesquisa/Imagens/img4.png)
 
   
 # Autoavaliação de Skills da Equipe Ágil

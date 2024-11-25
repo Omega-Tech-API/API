@@ -5,11 +5,13 @@ Repositório para atualizações de Projetos de Aprendizagem Integrada ( API )
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e registros (vídeos e apresentações) das sprints](#Funcionalidades)
-* [Backlog do produto](#Backlog-do-produto)
-* [Como Instalar o Nosso Projeto](#Como-Instalar-o-Nosso-Projeto)
-* [Avaliação de Skills](#Autoavaliação-de-Skills-da-Equipe-Ágil)
-* [Contatos](#Contatos-da-Equipe)
+* [Funcionalidades e registros (vídeos e apresentações) das sprints](#funcionalidades)
+* [Backlog do produto](#backlog-do-produto)
+* [Como Instalar o Nosso Projeto](#como-instalar-o-nosso-projeto)
+* [Avaliação de Skills](#autoavaliação-de-skills-da-equipe-ágil)
+* [Contatos](#contatos-da-equipe)
+
+
 
 # Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
@@ -25,8 +27,8 @@ Sprint            |   Início   |    Fim     | Status  |
 |Sprint Review 01 | 30/09/2024 | 04/10/2024 | concluído |
 |02               | 07/10/2024 | 27/10/2024 | concluído |
 |Sprint Review 02 | 28/10/2024 | 01/11/2024 | concluído |
-|03               | 04/11/2024 | 24/11/2024 | em progresso |
-|Sprint Review 03 | 25/11/2024 | 29/11/2024 | a fazer |
+|03               | 04/11/2024 | 24/11/2024 | concluído |
+|Sprint Review 03 | 25/11/2024 | 29/11/2024 | Em progresso |
 |Feira de Soluções| 12/12/2024 | 12/12/2024 | a fazer |
 
 <br>
@@ -56,9 +58,13 @@ Tendo como prioridade secundária, o desenvolvimento de Skills importantes para 
 <br>
 
 # Funcionalidades
+## Tela Home e Módulos
+![tela home](https://github.com/user-attachments/assets/1228334e-9189-41c0-8e8d-2fd9cbcb6063)
 
-![Sprint2](https://github.com/user-attachments/assets/0d404052-ee0b-4c0e-80fb-ca9305f3dd99)
+## Tela Quiz
+![Tela quiz](https://github.com/user-attachments/assets/98ba949d-0244-498c-859f-ef4c4ab91a27)
 
+<br>
 
 ## Tecnologias Utilizadas
 <p align="left">
@@ -78,6 +84,8 @@ Tendo como prioridade secundária, o desenvolvimento de Skills importantes para 
       </li>
    </ul>
 </p>
+
+<br>
 
 # Backlog do Produto
 

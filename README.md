@@ -248,7 +248,7 @@ flask run
 | Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 | Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Resiliência | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 | -------------------------------------------- | --------------------------- |
 | Hard Skill | Classificação |
 | Python | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
@@ -266,20 +266,20 @@ flask run
   
 | Soft Skill | Classificação |
 | ---------------------- | ------------- |
-| Colaboração | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Adaptabilidade | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Resiliência | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Proatividade| ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Resiliência | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 | -------------------------------------------- | --------------------------- |
 | Hard Skill | Classificação |
-| Python | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| HTML | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| CSS | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Jira | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Git | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| GitHub | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Python | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| HTML | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| CSS | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Jira | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Git | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 
 </details>
 
